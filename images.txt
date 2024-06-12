@@ -1,5 +1,1 @@
-gdy666/lucky
 chishin/nginx-proxy-manager-zh
-nyanmisaka/jellyfin
-linuxserver/jackett
-allanpk716/chinesesubfinder
